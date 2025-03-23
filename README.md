@@ -57,8 +57,8 @@ The system is built using:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/finchain-intelligence-network.git
-cd finchain-intelligence-network
+git clone https://github.com/your-username/finchain-intelligence-network-ver1.0.git
+cd finchain-intelligence-network-ver1.0
 pip install -r requirements.txt
 ```
 
