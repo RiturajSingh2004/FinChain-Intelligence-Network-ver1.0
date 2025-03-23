@@ -1,4 +1,4 @@
-# FinChain Intelligence Network (FIN)
+# FinChain Intelligence Network (FIN) (ver1.0)
 
 A system of interconnected AI agents designed to provide comprehensive financial intelligence, blockchain analytics, and ML-powered investment insights.
 
